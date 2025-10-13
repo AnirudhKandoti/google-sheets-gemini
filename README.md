@@ -16,13 +16,25 @@ It allows you to enter prompts in a Google Sheet and automatically logs AI respo
 
 ## **File Structure**
 
-
+```
+google-sheets-gemini/
+│
+├─ apps-script/
+│ ├─ Code.gs # Main script
+│ └─ Config.js # API key placeholder (do not push real key)
+├─ sheets/ # Google Sheet with your table
+├─ examples/ # Sample prompts and outputs
+├─ docs/ # Screenshots / documentation
+├─ README.md
+└─ LICENSE
+```
 ---
 
 ## **Setup Instructions**
+```bash
 
 1. **Clone the repo**:
-```bash
+
 git clone <your-repo-url>
 
 2. **Create your Google Sheet**:
