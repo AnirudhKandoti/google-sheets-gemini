@@ -1,0 +1,5 @@
+# Ignore local config with API key
+apps-script/Config.js
+
+# Ignore VS Code workspace settings
+.vscode/

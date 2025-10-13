@@ -1,0 +1,3 @@
+Explain how AI works in a few words
+Which company has the highest profit margin based on my table?
+Summarize top 3 companies by market cap.
